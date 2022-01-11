@@ -37,4 +37,4 @@ Esse projeto possui licença MIT. Para mais detalhes consulte o arquivo [LICENSE
 
 
 ## 📌 Observações
-- Projeto sem responsividade;
+- Projeto responsivo;
